@@ -213,7 +213,7 @@
 <br/>
 
 <div align="center">
-  <sub>🏅 Oracle Cloud AI Foundations Associate · MongoDB Associate Developer · SRM IST</sub>
+  <sub>🏅 Oracle Cloud AI Foundations Associate · MongoDB Associate Developer </sub>
 </div>
 
 <br/>
