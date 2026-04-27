@@ -57,22 +57,19 @@
 <div align="center">
 
 ###### Languages & Syntax:
-[![Languages](https://skillicons.dev/icons?i=java,cpp,python,js,swift)](https://skillicons.dev)
-
-###### Frontend & Frameworks:
-[![Frontend](https://skillicons.dev/icons?i=angular,react,nextjs,bootstrap,tailwind)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,python,swift)](https://skillicons.dev)
 
 ###### Backend & Database:
-[![Backend](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,spring,mongodb)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,supabase,mongodb)](https://skillicons.dev)
 
 ###### Machine Learning Tools:
-[![ML](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=tensorflow,pytorch,deeplearning)](https://skillicons.dev)
 
 ###### Other Skills:
-[![Other](https://skillicons.dev/icons?i=git,aws,arduino,unity,ps)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=git,blender,canva,ps)](https://skillicons.dev)
 
 ###### Development Environments:
-[![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,eclipse,xcode,figma)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,antigravity,xcode,figma)](https://skillicons.dev)
 
 </div>
 
